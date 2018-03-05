@@ -14,4 +14,5 @@ class Fact
   {
     f=a[i]*f;
   }
+  System.out.println(f);
     
